@@ -37,19 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Wizard](https://skillicons.dev/icons?i=wizard)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Vue.js](https://skillicons.dev/icons?i=vue.js)
-![Git](https://skillicons.dev/icons?i=git)
-![R](https://skillicons.dev/icons?i=r)
-
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,wizard,figma,tailwind,vue.js,git,r" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,wizard,figma,tailwind" />
+    <img src="https://iconscout.com/icons/vuejs"/>
+    <img src="https://skillicons.dev/icons?i=git,r" />
     <img src="https://skillicons.dev/icons?i=javascript,jquery,php,laravel,docker,digital ocean,mysql,wordpress," /><br>
 </div>
 
