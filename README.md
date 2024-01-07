@@ -37,8 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,wizard,figma,tailwind" />
-    <img src="https://iconscout.com/icons/vuejs"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,wizard,figma,tailwind,git,r" />
+    <img src="[https://iconscout.com/icons/vuejs](https://g.co/kgs/KdnXWwm)"/> 
+    <img src="https://skillicons.dev/icons?i=javascript,jquery,php,laravel,docker,digital ocean,mysql,wordpress," /><br>
     
 </div>
 
